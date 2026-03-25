@@ -74,9 +74,6 @@ const SonarInteraction = () => {
   return (
     <div className="flex flex-col items-center mt-12 w-full max-w-2xl mx-auto">
       <div className="relative flex justify-center items-center w-32 h-32 mb-8">
-        <h1 className="text-6xl text-green-500 text-center mt-10">
-          WORKING
-        </h1>
         {pinging && (
           <>
             <div className="absolute inset-0 rounded-full border-2 border-cyan-400 animate-ping" style={{ animationDuration: '1.5s' }}></div>
