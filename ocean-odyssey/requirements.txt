@@ -1,0 +1,5 @@
+# This project is a React (JavaScript) frontend using Vite and Tailwind CSS.
+# requirements.txt is typically for Python projects, but you requested it.
+# If you need Python dependencies, list them below, e.g.:
+# flask
+# requests
