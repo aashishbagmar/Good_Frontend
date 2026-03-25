@@ -1,6 +1,3 @@
-import heroImg from './assets/hero.png';
-import reactLogo from './assets/react.svg';
-import viteLogo from './assets/vite.svg';
 import React, { useState, useEffect, useRef } from 'react';
 import { ArrowDown, Droplet, Fish, Anchor, Activity, ChevronUp } from 'lucide-react';
 
